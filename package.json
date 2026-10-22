@@ -1,0 +1,14 @@
+{
+  "name": "event-ticketing",
+  "version": "1.0.0",
+  "description": "Terminal-based event ticketing and booking system",
+  "main": "src/demo.js",
+  "scripts": {
+    "demo": "node src/demo.js",
+    "benchmark": "node src/benchmark.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
